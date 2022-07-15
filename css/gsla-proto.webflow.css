@@ -3188,6 +3188,10 @@ blockquote {
   margin-bottom: 0px;
 }
 
+.icon-centered{
+  text-align: center !important;
+}
+
 .anchor-wrapper {
   display: -webkit-box;
   display: -webkit-flex;
